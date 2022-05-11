@@ -1,0 +1,38 @@
+.navbar-nav{
+    font-family: "Graphik";
+    src:local("Graphik-Bold"),
+    local("Graphik-Bold"),
+    url(fonts/Graphik-Bold.ttf);
+    font-size: 9px;
+    font-style:italic;
+    background: black;
+        }
+.logo{
+  align-content: flex-start;
+  width:100px;
+  height:80px;
+    }
+.bg_soporte{
+    justify-content:flex-start;
+    width: 1233px;
+    height:200px;
+    }
+.nav-link{
+    font-family: "Graphik";
+    src:local("Graphik-Black"),
+    local("Graphik-Black"),
+    url(fonts/Graphik-Black.ttf);
+    font-size: 18px;
+    font-style:normal;
+    background: black;
+    text-decoration: none;
+        }
+.dropdown-item{
+    font-family: "Graphik";
+    src:local("Graphik-Black"),
+    local("Graphik-Black"),
+    url(fonts/Graphik-Black.ttf);
+    font-size: 14px;
+    font-style:normal;
+    text-decoration: none;
+               }
